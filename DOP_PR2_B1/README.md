@@ -158,7 +158,7 @@ Das Frontend des Spiels kam erst mit Aufgabenblatt 3.
 Davor wurde das Spiel per Command Line In gesteuert.
 Dies sah wie folgt aus:
 
-![CLI](images/CLI.PNG)
+![CLI](CLI.PNG)
 
 ### Aufgabenblatt 3:
 Mit dem dritten Aufgabenblatt kam die Aufgabe dem Spiel ein Frontend Design zu verpassen.
@@ -166,7 +166,7 @@ Dies kann man in Java mittels Swing GUI realisieren.
 Das Frontend wurde nicht fertig, jedoch wurden ein paar Funktionen wie zum Beispiel das Legen/Ziehen der Karten implementiert.
 Das sieht wie folgt aus:
 
-![Frontend](images/laufendesSpiel.PNG)
+![Frontend](laufendesSpiel.PNG)
 
 ## Lehrvideos
 Die Aufgaben zu Lehrvideos wurden in jedem Blatt gestellt.
@@ -180,7 +180,7 @@ UML-Aktivitätsdiagramm-Verzweigungen-if-else-switch
 In diesem Video wurde erläutert, welche Elemente das UML-Aktivitätsdiagramm hat. Zusätzlich wurden Verzweigungen wie If-Else und Switch erklärt.
 Youtube Link (Bild klick!):
 
-[![Blatt1_1a](images/David_Blatt1_1a.PNG)](https://www.youtube.com/watch?v=Cem_CkfDM5A&t=2721s/)
+[![Blatt1_1a](David_Blatt1_1a.PNG)](https://www.youtube.com/watch?v=Cem_CkfDM5A&t=2721s/)
 
 
 #### Thema:
@@ -189,7 +189,7 @@ Exception-Handling-Strukturierung
 #### Beschreibung:
 In diesem Video wurden Exceptions vorgestellt und wie man mit diesen in Java umgeht.
 
-![Blatt1_1b](images/David_Blatt1_1b.PNG)
+![Blatt1_1b](David_Blatt1_1b.PNG)
 
 
 #### Thema:
@@ -198,7 +198,7 @@ Aggregation, Komposition, Enum, Annotation
 #### Beschreibung:
 In diesem Video wurden die Aggregation und Komposition vorgestellt und verglichen. Zusätzlich wurden Enumerations und Annotationen erklärt
 
-![Blatt2_1](images/David_Blatt2_1.PNG)
+![Blatt2_1](David_Blatt2_1.PNG)
 
 
 #### Thema:
@@ -207,7 +207,7 @@ Nebenläufigkeit: Threads, Races, Deadlocks
 #### Beschreibung:
 In diesem Video wurde erklärt wie man in Java Threads erstellt. Races und Deadlocks wurden in Verbindung mit den Threads gebracht.
 
-![Blatt3_1](images/David_Blatt3_1.PNG)
+![Blatt3_1](David_Blatt3_1.PNG)
 
 ### Vanessa Görner
 #### Thema: 
@@ -217,7 +217,7 @@ Objekt, Eigenschaften, Getter, Setter, Konstruktoren
 In diesem Video wurden die Basics zur Objektorientierung erlaeutert und anhand eines Beispiels aufgefuehrt.
 
 
-![Blatt1_1a](images/Vanessa_Blatt1_1a.PNG)
+![Blatt1_1a](Vanessa_Blatt1_1a.PNG)
 
 
 #### Thema:
@@ -227,7 +227,7 @@ Komplexitaet-O-Notation-P-NP
 in diesem Video werden Laufzeitkomplexitaeten anhand von einfachen Beispielen erklaert.
 Youtube Link (Bild klick!):
 
-[![Blatt1_1b](images/Vanessa_Blatt1_1b.PNG)](https://www.youtube.com/watch?v=1sp5iy-qPyc&t=925s/)
+[![Blatt1_1b](Vanessa_Blatt1_1b.PNG)](https://www.youtube.com/watch?v=1sp5iy-qPyc&t=925s/)
 
 
 #### Thema:
@@ -236,7 +236,7 @@ Assoziation, Vererbung, Abstract, Polymorphie
 #### Beschreibung:
 In diesem Video wurden die Begriffe Assoziation, Vererbung, Abstract, Polymorphie anhand von einem Anwendungsfall dargestellt.
 
-![Blatt2_1](images/Vanessa_Blatt2_1.PNG)
+![Blatt2_1](Vanessa_Blatt2_1.PNG)
 
 
 #### Thema:
@@ -245,4 +245,4 @@ Datenstrukturen: Graphen, Dijkstra, Faerbung
 #### Beschreibung:
 in diesem Video wurden Graphen erklaert und ein eigenes Faerbungsproblem geloest.
 
-![Blatt3_1](images/Vanessa_Blatt3_1.PNG)
+![Blatt3_1](Vanessa_Blatt3_1.PNG)
