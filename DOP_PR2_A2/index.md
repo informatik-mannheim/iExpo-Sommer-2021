@@ -3,8 +3,6 @@
 
 [zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Sommer-2021/)
 
-Im Folgenden Text werden wir die Bemühungen unseres Teams Für das Fach Pr2im Sommersemester 2021 bei Prof. DR. Frank Dopatka zusammenfassen.
-
 ### Das Team
 Unser Team A2 bestand aus erstmals fünf und anschließend aus sechs Mitgliedern, welche alle mit voller Konzentration und Freude dabei waren. Das Team bestand aus den Studenten Alihan Pinarbas, Burak Bingöl, Enes Can Sevim, Lars Stricker, Mika Richter und Sopithan Goneswaran. Im Laufe dieses Semesters wurde Mika Richter unserer Gruppe nachträglich zugeteilt. Dennoch haben wir als Gruppe toll harmoniert und konnten hervorragend miteinander auskommen.
 
