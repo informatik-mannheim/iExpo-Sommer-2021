@@ -20,9 +20,7 @@ Es gab drei Blätter die zu bearbeiten waren.
 Pro Blatt gab es in Einzelarbeit Lehrvideos zu erstellen und Aufgaben zum Kundenprojekt "Uno" .
 
 ## Klassendiagram
-Dieses Klassendiagram war unsere Vorlage, wie das Spiel gebaut werden soll.
-
-![UML des Spiels](UML.png)
+Ein Klassendiagram war unsere Vorlage, wie das Spiel gebaut werden soll.
 
 ## Backend
 
