@@ -1,4 +1,8 @@
-# Pr2 B2 Semesterspiel Uno
+## Veranstaltung Programmierung 2, UIB
+### Dozent: Prof. Dr. Frank Dopatka
+
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Sommer-2021/)
+
 
 **Was hat unser Team in Pr 2 bei DOP dieses Semester gemacht?**
 
@@ -256,4 +260,6 @@ Im vierten Video ging es um die vordefinierten Containerklassen. Insbesondere wu
 
 **Team PR2-B2**
 
+---
 
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Sommer-2021/)
