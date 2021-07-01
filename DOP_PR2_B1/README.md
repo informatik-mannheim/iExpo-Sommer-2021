@@ -1,6 +1,7 @@
-# Studiengang UIB, Programmierung 2, Prof. Dr. Frank Dopatka
+## Programmierung 2, UIB
+### Prof. Dr. Frank Dopatka
 
-![zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Sommer-2021/)
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Sommer-2021/)
 
 ## Präsentierende Team-Mitglieder
 * David Miller
@@ -10,7 +11,7 @@
 ### Kundenprojekt
 Unsere Aufgabe lautet, das Kartenspiel „Uno“ gemäß der folgenden Regeln in Java
 zu implementieren. 
-![Uno Regeln](https://de.wikipedia.org/wiki/Uno_(Kartenspiel))
+[Uno Regeln](https://de.wikipedia.org/wiki/Uno_(Kartenspiel))
 
 ### Einzelarbeit
 Ebenso gab es Aufgaben die in Form von Lehrvideos abzugeben waren.
