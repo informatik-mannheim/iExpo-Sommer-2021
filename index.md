@@ -18,7 +18,7 @@ Die folgenden studentischen Arbeiten sind nach den Semestern sortiert, in dem ma
 
 * [Team A-2](DOP_PR2_A2/)
 * [Team B-1](DOP_PR2_B1/)
-* [Team B-1](DOP_PR2_B2/)
+* [Team B-2](DOP_PR2_B2/)
 
 ### 3. Semester: Veranstaltung webbasierte Systeme
 
