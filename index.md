@@ -6,7 +6,7 @@ Dabei handelt es sich immer um Arbeiten, die im Laufe des vergangenen Semesters 
 
 # studentische Arbeiten
 
-Die folgenden studentischen Arbeiten sind sortiert nach den Semestern in dem man diese Veranstaltung hört. Weil eine Veranstaltung mit demselben Namen in verschiedenen Studiengängen von mehreren Dozenten angeboten werden kann, finden Sie diese Einteilung darunter. Die Links verweisen dann auf die vorgestellten Arbeiten; die Seiten dahinter wurden von den Studierenden selbst erstellt.
+Die folgenden studentischen Arbeiten sind nach den Semestern sortiert, in dem man diese Veranstaltung hört. Weil eine Veranstaltung mit demselben Namen in verschiedenen Studiengängen von mehreren Dozenten angeboten werden kann, finden Sie diese Einteilung darunter. Die Links verweisen dann auf die vorgestellten Arbeiten. Die Seiten dahinter diesen Links wurden von unseren Studierenden selbst erstellt.
 
 ## Veranstaltung Programmierung 2, 2. Semester
 
