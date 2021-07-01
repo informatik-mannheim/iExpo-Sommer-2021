@@ -4,7 +4,7 @@
 [zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Sommer-2021/)
 
 
-**Was hat unser Team in Pr 2 bei DOP dieses Semester gemacht?**
+**Was hat unser Team dieses Semester gemacht?**
 
 Wir haben uns im Sinne unserer Studienleistung mit der Programmierung eines Uno Spiels als Team beschäftigt.
 Zusätzlich mussten wir in Eigenleistung Lehrvideos zum gegebenen Vorlesungsthemen drehen.
