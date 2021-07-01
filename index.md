@@ -16,6 +16,10 @@ Die folgenden studentischen Arbeiten sind nach den Semestern sortiert, in dem ma
 
 #### Studiengang UIB bei Prof. Dr. Frank Dopatka
 
+Die Übungen zur Studienleistung in diesem Fach bestehen bei mir immer aus 2 Teilen. In dem Team-Teil sollte diesmal das Semesterspiel UNO implementiert werden. Die Abnahmen davon wurden von dem Mitarbeiter Herr Köhler und dem Tutor Herr Arns durchgeführt, die die Rolle eines Kunden einnehmen. Der Kunde hat das UNO-Spiel bei diesen keinen Software-Unternehmen bestellt. Im 1. Teil sollte dabei der Kern des Spiels mit dessen Regeln nach einer Rahmenvorgabe in Java implementiert werden. Im 2. Teil stand das Spielen des Computers ("KI") und das wiedereintrittsfähige Laden und Speichern von Spielständen über Interfaces im Vordergrund. Der 3. Teil bestand aus einer Swing-GUI sowie in der Abgabe des Produktes als JAR-Datei.
+
+Zusätzlich dazu mussten die Studierenden einzeln Videos abgeben, in denen [konkrete Beispiele](https://www.youtube.com/playlist?list=PL35XGjy0AQAqO6LcxLlV3cumtFkb9PmS0){:target="_blank" rel="noopener"} zu [vorgegebenen Vorlesungsteilen](https://www.youtube.com/playlist?list=PL35XGjy0AQAr5JtCR2mFJ4My8iicuNH7W){:target="_blank" rel="noopener"} live zu coden und zu erklären waren.
+
 * [Team A-2](DOP_PR2_A2/)
 * [Team B-1](DOP_PR2_B1/)
 * [Team B-2](DOP_PR2_B2/)
