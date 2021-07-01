@@ -1,5 +1,5 @@
-## Programmierung 2, UIB
-### Prof. Dr. Frank Dopatka
+## Veranstaltung Programmierung 2, UIB
+### Dozent: Prof. Dr. Frank Dopatka
 
 [zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Sommer-2021/)
 
