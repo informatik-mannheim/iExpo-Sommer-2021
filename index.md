@@ -1,10 +1,10 @@
 # Die Idee dieser Präsentation
 
-Die Idee der iExpo-Veranstaltung besteht darin, studentische Arbeiten der [Fakultät Informatik](https://www.informatik.hs-mannheim.de/){:target="_blank" rel="noopener"} an der [Hochschule Mannheim](https://www.hs-mannheim.de/) zu präsentieren.
+Die Idee der iExpo-Veranstaltung besteht darin, studentische Arbeiten der [Fakultät Informatik](https://www.informatik.hs-mannheim.de/){:target="_blank" rel="noopener"} an der [Hochschule Mannheim](https://www.hs-mannheim.de/){:target="_blank" rel="noopener"} zu präsentieren.
 
 Dabei handelt es sich immer um Arbeiten, die im Laufe des vergangenen Semesters im Rahmen von Prüfungsleistungen entstanden sind. Ziel dabei ist es vor allem, Schülern und Interessierten einen Einblick in das Studium der Informatik an einer Hochschule zu geben.
 
-Die Präsentation geschieht normalerweise in Form einer Messe auf dem Gelände der Hochschule, zu der Gäste und Firmenvertreter eingeladen werden. Einen Eindruck davon können Sie in unserer [YouTube-Aufzeichnung](https://www.youtube.com/watch?v=riXYHv8wnS4) der Messe vom Wintersemester 2018/19 erhalten.
+Die Präsentation geschieht normalerweise in Form einer Messe auf dem Gelände der Hochschule, zu der Gäste und Firmenvertreter eingeladen werden. Einen Eindruck davon können Sie in unserer [YouTube-Aufzeichnung](https://www.youtube.com/watch?v=riXYHv8wnS4){:target="_blank" rel="noopener"} der Messe vom Wintersemester 2018/19 erhalten.
 
 Unter Corona-Bedingungen findet die Präsentation in diesem Semester statt dessen über diese GitHub-Seite statt.
 
