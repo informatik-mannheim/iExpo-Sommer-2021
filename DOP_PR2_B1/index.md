@@ -11,7 +11,7 @@
 ### Kundenprojekt
 Unsere Aufgabe lautet, das Kartenspiel „Uno“ gemäß der folgenden Regeln in Java
 zu implementieren. 
-[Uno Regeln](https://de.wikipedia.org/wiki/Uno_(Kartenspiel))
+[Uno Regeln](https://de.wikipedia.org/wiki/Uno_(Kartenspiel)){:target="_blank" rel="noopener"}
 
 ### Einzelarbeit
 Ebenso gab es Aufgaben die in Form von Lehrvideos abzugeben waren.
@@ -178,7 +178,7 @@ UML-Aktivitätsdiagramm-Verzweigungen-if-else-switch
 In diesem Video wurde erläutert, welche Elemente das UML-Aktivitätsdiagramm hat. Zusätzlich wurden Verzweigungen wie If-Else und Switch erklärt.
 Das komplette Video ist in Youtube durch einen Klick auf das Bild verfügbar:
 
-[![Blatt1_1a](David_Blatt1_1a.PNG)](https://www.youtube.com/watch?v=Cem_CkfDM5A&t=2721s/)
+[![Blatt1_1a](David_Blatt1_1a.PNG)](https://www.youtube.com/watch?v=Cem_CkfDM5A&t=2721s/){:target="_blank" rel="noopener"}
 
 
 #### Thema:
@@ -225,7 +225,7 @@ Komplexitaet-O-Notation-P-NP
 in diesem Video werden Laufzeitkomplexitaeten anhand von einfachen Beispielen erklaert.
 Das komplette Video ist in Youtube durch einen Klick auf das Bild verfügbar:
 
-[![Blatt1_1b](Vanessa_Blatt1_1b.PNG)](https://www.youtube.com/watch?v=1sp5iy-qPyc&t=925s/)
+[![Blatt1_1b](Vanessa_Blatt1_1b.PNG)](https://www.youtube.com/watch?v=1sp5iy-qPyc&t=925s/){:target="_blank" rel="noopener"}
 
 
 #### Thema:
