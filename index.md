@@ -8,15 +8,18 @@ Dabei handelt es sich immer um Arbeiten, die im Laufe des vergangenen Semesters 
 
 Die folgenden studentischen Arbeiten sind nach den Semestern sortiert, in dem man diese Veranstaltung hört. Weil eine Veranstaltung mit demselben Namen in verschiedenen Studiengängen von mehreren Dozenten angeboten werden kann, finden Sie diese Einteilung darunter. Die Links verweisen dann auf die vorgestellten Arbeiten. Die Seiten dahinter diesen Links wurden von unseren Studierenden selbst erstellt.
 
-## Veranstaltung Programmierung 2, 2. Semester
+### 2. Semester: Veranstaltung Programmierung 2
 
-### Studiengang UIB bei Prof. Dr. Frank Dopatka
+#### Studiengang UIB bei Prof. Dr. Frank Dopatka
 
 * [Team B-1](DOP_PR2_B1/)
 
-## Veranstaltung webbasierte Systeme, 3. Semester
+### 3. Semester: Veranstaltung webbasierte Systeme
 
-### Studiengänge IB und UIB bei Prof. Dr. Frank Dopatka
+#### Studiengänge IB und UIB bei Prof. Dr. Frank Dopatka
+
+* ...
+* ...
 
 
 
