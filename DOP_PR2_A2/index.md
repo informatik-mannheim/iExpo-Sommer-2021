@@ -1,4 +1,7 @@
-# Willkommen zur GitHub-Seite des Teams A-2 :tada:
+## Veranstaltung Programmierung 2, UIB
+### Dozent: Prof. Dr. Frank Dopatka
+
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Sommer-2021/)
 
 Im Folgenden Text werden wir die Bemühungen unseres Teams Für das Fach Pr2im Sommersemester 2021 bei Prof. DR. Frank Dopatka zusammenfassen.
 
