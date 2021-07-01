@@ -1,4 +1,6 @@
-# pr2-uib-team-b-1
+# Studiengang UIB, Programmierung 2, Prof. Dr. Frank Dopatka
+
+![zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Sommer-2021/)
 
 ## Präsentierende Team-Mitglieder
 * David Miller
