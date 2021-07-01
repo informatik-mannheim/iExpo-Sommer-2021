@@ -178,7 +178,7 @@ UML-Aktivitätsdiagramm-Verzweigungen-if-else-switch
 
 #### Beschreibung:
 In diesem Video wurde erläutert, welche Elemente das UML-Aktivitätsdiagramm hat. Zusätzlich wurden Verzweigungen wie If-Else und Switch erklärt.
-Youtube Link (Bild klick!):
+Das komplette Video ist in Youtube durch einen Klick auf das Bild verfügbar:
 
 [![Blatt1_1a](David_Blatt1_1a.PNG)](https://www.youtube.com/watch?v=Cem_CkfDM5A&t=2721s/)
 
@@ -225,7 +225,7 @@ Komplexitaet-O-Notation-P-NP
 
 #### Beschreibung:
 in diesem Video werden Laufzeitkomplexitaeten anhand von einfachen Beispielen erklaert.
-Youtube Link (Bild klick!):
+Das komplette Video ist in Youtube durch einen Klick auf das Bild verfügbar:
 
 [![Blatt1_1b](Vanessa_Blatt1_1b.PNG)](https://www.youtube.com/watch?v=1sp5iy-qPyc&t=925s/)
 
