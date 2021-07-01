@@ -230,7 +230,9 @@ Als letzte Zusatzaufgabe gibt es nochmal ein Lehrvideo, welches innerhalb einer 
 ## Unser Fazit
 Als Zusammenfassung können wir alle als Team mit Überzeugung sagen, dass wir in diesem Studiengang immer wieder an unsere Grenzen gestoßen sind. Daran sind wir auch gewachsen. Die Idee die Inhalte der 'PR2' Vorlesung in einem Spiel als Projekt zu verpacken empfanden wir als eine gute. Dadurch war es möglich, das gelernte aktiv anzuwenden und mit Problemen die dabei entstanden sind umzugehen. Das Präsentieren der Ergebnisse verstärkte das Gemeinschaftsgefühl der Gruppe und das Selbstbewusstsein für das zukünftige Arbeitsleben als Programmierer. Die Kompetenzen und Ideen waren nicht nur Innerhalb der Gruppe, sondern auch in der Einzelarbeit in Form von Lehrvideos einzubringen. Somit konnte man sich gut einen Überblick über seine Fähigkeiten als Student verschaffen. Es war rückblickend ausschlaggebend eine Struktur zur Aufgabenverteilung zu gestalten. Nur so konnte man die Aufgaben gerecht und fair verteilen. Das Format der Vorlesung war unsrer Meinung nach sehr gelungen. Durch das Hochladen der Vorlesungsmaterialien in Videoform Konnte man jederzeit die Vorlesung in seinem eigenen Tempo lernen und verstehen. Insgesamt also eine durchaus Interessante Veranstaltung.
 
+---
 
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Sommer-2021/)
 
 
   

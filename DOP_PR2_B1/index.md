@@ -244,3 +244,8 @@ Datenstrukturen: Graphen, Dijkstra, Faerbung
 in diesem Video wurden Graphen erklaert und ein eigenes Faerbungsproblem geloest.
 
 ![Blatt3_1](Vanessa_Blatt3_1.PNG)
+
+
+---
+
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Sommer-2021/)
