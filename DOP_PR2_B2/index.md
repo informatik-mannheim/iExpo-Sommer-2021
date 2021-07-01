@@ -90,7 +90,7 @@ Des Weiteren werden die Getter und Setter Hilfsmethoden anhand des Quellcodes er
 ![Bild_2_David](https://user-images.githubusercontent.com/72968168/124028770-acd7bf00-d9f4-11eb-999d-b65158a112cb.jpg)
 
 Das zweite Video handelt von Versionsverwaltungssystemen, insbesondere um Git. Es zeigt welche Funktion es bietet, um als Team am Quellcode zu arbeiten.
-In diesem Video wurde auch ein Merge Konflikt gelöst. Dieses Video finden Sie auch auf dem Youtube Kanal von Herrn Prof. Frank Dopatka  [Versionsverwaltungssysteme und GIT mit Java in Eclipse](https://www.youtube.com/watch?v=DZAdtgJMw6g&ab_channel=FrankDopatka).
+In diesem Video wurde auch ein Merge Konflikt gelöst. Dieses Video finden Sie auch auf dem Youtube Kanal von Herrn Prof. Frank Dopatka  [Versionsverwaltungssysteme und GIT mit Java in Eclipse](https://www.youtube.com/watch?v=DZAdtgJMw6g&ab_channel=FrankDopatka){:target="_blank" rel="noopener"}.
 
 
 **3.Video Steuerelemente und Ereignisse in Swing**
