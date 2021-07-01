@@ -1,6 +1,6 @@
 # Die Idee dieser Präsentation
 
-Die Idee der iExpo-Veranstaltung besteht darin, studentische Arbeiten der [Fakultät Informatik](https://www.informatik.hs-mannheim.de/) an der [Hochschule Mannheim](https://www.hs-mannheim.de/) zu präsentieren.
+Die Idee der iExpo-Veranstaltung besteht darin, studentische Arbeiten der [Fakultät Informatik](https://www.informatik.hs-mannheim.de/){:target="_blank" rel="noopener"} an der [Hochschule Mannheim](https://www.hs-mannheim.de/) zu präsentieren.
 
 Dabei handelt es sich immer um Arbeiten, die im Laufe des vergangenen Semesters im Rahmen von Prüfungsleistungen entstanden sind. Ziel dabei ist es vor allem, Schülern und Interessierten einen Einblick in das Studium der Informatik an einer Hochschule zu geben.
 
