@@ -4,6 +4,8 @@ Die Idee der iExpo-Veranstaltung besteht darin, studentische Arbeiten der [Fakul
 
 Dabei handelt es sich immer um Arbeiten, die im Laufe des vergangenen Semesters im Rahmen von Prüfungsleistungen entstanden sind. Ziel dabei ist es vor allem, Schülern und Interessierten einen Einblick in das Studium der Informatik an einer Hochschule zu geben.
 
+Die Präsentation geschieht normalerweise in Form einer Messe auf dem Gelände der Hochschule, zu der Gäste eingeladen werden. Unter Corona-Bedingungen findet die Präsentation in diesem Semester statt dessen über diese GitHub-Seite statt.
+
 # studentische Arbeiten
 
 Die folgenden studentischen Arbeiten sind nach den Semestern sortiert, in dem man diese Veranstaltung hört. Weil eine Veranstaltung mit demselben Namen in verschiedenen Studiengängen von mehreren Dozenten angeboten werden kann, finden Sie diese Einteilung darunter. Die Links verweisen dann auf die vorgestellten Arbeiten. Die Seiten dahinter diesen Links wurden von unseren Studierenden selbst erstellt.
