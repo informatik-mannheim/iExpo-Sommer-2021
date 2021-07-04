@@ -30,8 +30,7 @@ Zusätzlich dazu sollten die Studierenden einzeln Videos abgeben, in denen [konk
 
 #### Studiengänge IB und UIB bei Prof. Dr. Frank Dopatka
 
-* ...
-* ...
+* [Team B-1](DOP_WEB_B1/)
 
 ### 7. Semester: Bachelor-Thesis
 
