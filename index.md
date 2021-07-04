@@ -33,7 +33,9 @@ Zusätzlich dazu sollten die Studierenden einzeln Videos abgeben, in denen [konk
 * ...
 * ...
 
+### 7. Semester: Bachelor-Thesis
 
+* [Development and evalution of a voice assistant system based on open source compoments for Raspberry Pi](HUM_Thesis/)
 
 
 
