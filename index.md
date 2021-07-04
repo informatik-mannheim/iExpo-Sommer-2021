@@ -38,5 +38,5 @@ Zusätzlich dazu sollten die Studierenden einzeln Videos abgeben, in denen [konk
 
 ### Projekt
 
-* [Open Source CoronaTrackingTool](HUM_Projekt/)
+* [Open Source CoronaTrackingTool](HUM_KLS_Projekt/)
 

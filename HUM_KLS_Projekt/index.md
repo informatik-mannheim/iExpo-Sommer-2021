@@ -1,5 +1,5 @@
 ## Veranstaltung Bachelor Thesis
-### Dozent: Prof. Dr. Oliver Hummel
+### Dozent: Prof. Dr. Oliver Hummel, Prof. Dr. Sven Klaus
 
 [zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Sommer-2021/)
 
