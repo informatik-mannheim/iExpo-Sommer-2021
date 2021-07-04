@@ -1,6 +1,7 @@
-# WEB-B1
-[![Hochschule Mannheim](https://www.hs-mannheim.de/)](https://www.hs-mannheim.de/)
-[![Frank Dopatka](https://frank-dopatka.de/)](https://frank-dopatka.de/)
+## Veranstaltung Programmierung 2, UIB
+### Dozent: Prof. Dr. Frank Dopatka
+
+[zurück zur Hauptseite...](https://informatik-mannheim.github.io/iExpo-Sommer-2021/)
 
 Wir, das Team B1, bestehend aus:
 * Daniel Kalotai
