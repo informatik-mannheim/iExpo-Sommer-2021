@@ -83,9 +83,9 @@ Die Diagramme wurden jeweils als BPMN Modelle bearbeitet.
 ### Diagramme
 ![GitHub Logo](images/AllgemeinBPMN.PNG)
 
-![GitHub Logo](images/ausgefüllteDokumenteAufrufen.PNG)
+![GitHub Logo](images/ausgefuellteDokumenteAufrufen.PNG)
 
-![GitHub Logo](images/FormularfeldAusfüllen.PNG)
+![GitHub Logo](images/FormularfeldAusfuellen.PNG)
 
 ![GitHub Logo](images/NutzerdatenAbrufen.PNG)
 
