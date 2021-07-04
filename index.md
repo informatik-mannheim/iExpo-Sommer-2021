@@ -37,5 +37,7 @@ Zusätzlich dazu sollten die Studierenden einzeln Videos abgeben, in denen [konk
 
 * [Development and evalution of a voice assistant system based on open source compoments for Raspberry Pi](HUM_Thesis/)
 
+### Projekt
 
+* [Open Source CoronaTrackingTool](HUM_Projekt/)
 
