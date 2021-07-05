@@ -42,13 +42,13 @@ Statt eines Semesterspiels existiert im 3. Semester ein externer Kunde, der eine
 
 #### Studiengang UIB bei Prof. Dr. Michael Gröschel
 
-Als Teil der Prüfungsleistung schreiben Studierende [Blog-Beiträge zu speziellen Themen](https://www.youtube.com/playlist?list=PL35XGjy0AQArZ6UJPT06e9r3IdhoYmRUF){:target="_blank" rel="noopener"}
+Als Teil der Prüfungsleistung schreiben Studierende [Blog-Beiträge zu speziellen Themen](https://ebusiness2020.wordpress.com/category/lehrkonzept/){:target="_blank" rel="noopener"}
 
 ### 6./7. Semester: Wahlfach Game Engineering
 
 #### Studiengang IB, UIB, CSB, IMB bei Prof. Dr. Frank Dopatka
 
-Dieses Semester wurde eine real-time Handelssimulationsplatform entwickelt, die einem erlaubt Dogecoin zu handeln. Die Top 10 der Nutzer die innerhalb 30 Minuten den größten Gewinn erziehlen, erscheinen für alle anderen Nutzer im Highscore. Weitere Informationen finden Sie [hier...](https://www.youtube.com/playlist?list=PL35XGjy0AQAqb0LdnV-wWbhbu6ZM1uCrn)
+Dieses Semester wurde eine real-time Handelssimulationsplatform entwickelt, mit der man Dogecoin handeln kann. Die Top 10 der Nutzer, die innerhalb 30 Minuten den größten Gewinn erziehlen, erscheinen für alle anderen Nutzer im Highscore. Weitere Informationen finden Sie [hier...](DOP_GAE/)
 
 ### 7. Semester: Bachelor-Thesis
 
