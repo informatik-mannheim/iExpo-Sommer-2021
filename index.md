@@ -44,6 +44,12 @@ Statt eines Semesterspiels existiert im 3. Semester ein externer Kunde, der eine
 
 Als Teil der Prüfungsleistung schreiben Studierende [Blog-Beiträge zu speziellen Themen](https://www.youtube.com/playlist?list=PL35XGjy0AQArZ6UJPT06e9r3IdhoYmRUF){:target="_blank" rel="noopener"}
 
+### 6./7. Semester: Wahlfach Game Engineering
+
+#### Studiengang IB, UIB, CSB, IMB bei Prof. Dr. Frank Dopatka
+
+Dieses Semester wurde eine real-time Handelssimulationsplatform entwickelt, die einem erlaubt Dogecoin zu handeln. Die Top 10 der Nutzer die innerhalb 30 Minuten den größten Gewinn erziehlen, erscheinen für alle anderen Nutzer im Highscore. Weitere Informationen finden Sie [hier...](https://www.youtube.com/playlist?list=PL35XGjy0AQAqb0LdnV-wWbhbu6ZM1uCrn)
+
 ### 7. Semester: Bachelor-Thesis
 
 * [Development and evalution of a voice assistant system based on open source compoments for Raspberry Pi](HUM_Thesis/)
