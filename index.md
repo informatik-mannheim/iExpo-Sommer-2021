@@ -38,7 +38,9 @@ Statt eines Semesterspiels existiert im 3. Semester ein externer Kunde, der eine
 
 * [Team B-1](DOP_WEB_B1/)
 
-### 6./7. Semester: Wahlfach E-Business bei Prof. Dr. Michael Gröschel
+### 6./7. Semester: Wahlfach E-Business 
+
+#### Studiengang UIB bei Prof. Dr. Michael Gröschel
 
 Als Teil der Prüfungsleistung schreiben Studierende [Blog-Beiträge zu speziellen Themen](https://www.youtube.com/playlist?list=PL35XGjy0AQArZ6UJPT06e9r3IdhoYmRUF){:target="_blank" rel="noopener"}
 
