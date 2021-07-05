@@ -30,6 +30,12 @@ Zusätzlich dazu sollten die Studierenden einzeln Videos abgeben, in denen [konk
 
 #### Studiengänge IB und UIB bei Prof. Dr. Frank Dopatka
 
+Auch hier besteht die Übung aus zwei Teilen.
+
+Die Erstellung von Lehrvideos [zu einzelnen Themen](https://www.youtube.com/playlist?list=PL35XGjy0AQAqO6LcxLlV3cumtFkb9PmS0){:target="_blank" rel="noopener"} zu [vorgegebenen Vorlesungsteilen](https://www.youtube.com/playlist?list=PL35XGjy0AQArZ6UJPT06e9r3IdhoYmRUF){:target="_blank" rel="noopener"} ist sehr ähnlich zu dem Vorgehen in Programmierung 2.
+
+Statt eines Semesterspiels existiert im 3. Semester ein externer Kunde, der eine Aufgabe in Form einer Webseite oder einer Web-App mitbringt. In diesem Semester war der Kunde Andreas Lindemann, ein Student aus der Fakultät Sozialwesen. Seine Idee bestand darin, eine leicht bedienbare, mehrsprachige HTML5-App für Zugezogene aus dem Ausland nach Mannheim anzubieten. Die App soll bei typischen bürokratischen Formalitäten und Anträgen behilflich sein.
+
 * [Team B-1](DOP_WEB_B1/)
 
 ### 7. Semester: Bachelor-Thesis
