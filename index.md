@@ -54,7 +54,8 @@ Dieses Semester wurde eine real-time Handelssimulationsplatform entwickelt, mit 
 
 * [Development and evalution of a voice assistant system based on open source compoments for Raspberry Pi](HUM_Thesis/)
 
-### Projekt
+### Projekte
 
+* [datalab](HUM_Projekt/)
 * [Open Source CoronaTrackingTool](HUM_KLS_Projekt/)
 
