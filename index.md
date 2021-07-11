@@ -56,6 +56,7 @@ Dieses Semester wurde eine real-time Handelssimulationsplatform entwickelt, mit 
 
 ### Projekte
 
+* [Cyber Security Development Project - Seculeet](CSP/)
 * [datalab](HUM_Projekt/)
 * [Open Source CoronaTrackingTool](HUM_KLS_Projekt/)
 
